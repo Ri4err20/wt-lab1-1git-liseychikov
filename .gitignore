@@ -1,0 +1,5 @@
+bin/
+obj/
+node_modules/
+.env
+/.vs/wt-lab1-git1-liseychikov

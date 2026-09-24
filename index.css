@@ -1,0 +1,46 @@
+.name 
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18pt;
+}
+
+.main-title 
+{
+    font-size: 30pt;
+}
+
+hr 
+{
+    border: none;
+    height: 5pt;
+    background-color: black;
+    opacity: 100;
+}
+
+.text 
+{
+    font-size: 16pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navigation 
+{
+    display: flex;
+    gap: 20pt;
+    justify-content: center;
+    font-size: 14pt;
+}
+
+@media (min-width: 768px) 
+{
+    .text-md-justify 
+    {
+        text-align: justify;
+    }
+}
+
+.text
+{
+    text-align: justify;
+}
